@@ -13,4 +13,4 @@ matemática del Curso de Aprestamiento Universitario de la UNGS y su utilidad
 se puede extender a otros niveles educativos. Se describe el dispositivo y se
 presentan ejemplos de aplicación.
 
-![Uploading image.png…]()
+![https://github.com/maxiveliz/JUDITH/blob/main/Juego%20Did%C3%A1ctico%20para%20Tareas%20H%C3%A1pticas_1.PNG]()
