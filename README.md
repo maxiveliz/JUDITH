@@ -13,3 +13,4 @@ matemática del Curso de Aprestamiento Universitario de la UNGS y su utilidad
 se puede extender a otros niveles educativos. Se describe el dispositivo y se
 presentan ejemplos de aplicación.
 
+![Uploading image.png…]()
