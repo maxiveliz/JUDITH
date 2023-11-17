@@ -15,3 +15,9 @@ presentan ejemplos de aplicación.
 
 ![Juego Didáctico para Tareas Hápticas](https://github.com/maxiveliz/JUDITH/blob/9fd2d86531a9cda1281d17332c89f9eac544f720/Juego%20Did%C3%A1ctico%20para%20Tareas%20H%C3%A1pticas_11.PNG)
 
+Referencia: https://www.researchgate.net/publication/305490661_Un_dispositivo_para_hacer_Matematica_con_los_dedos 
+
+Contacto.
+
+Maximiliano E. Véliz
+mveliz@campus.ungs.edu.ar
