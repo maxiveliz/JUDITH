@@ -13,5 +13,5 @@ matemática del Curso de Aprestamiento Universitario de la UNGS y su utilidad
 se puede extender a otros niveles educativos. Se describe el dispositivo y se
 presentan ejemplos de aplicación.
 
-![Juego Didáctico para Tareas Hápticas](https://github.com/maxiveliz/JUDITH/blob/1cc40e68b2624bb1937529315855a47c020747c3/Juego%20Did%C3%A1ctico%20para%20Tareas%20H%C3%A1pticas_1.PNG)
+![Juego Didáctico para Tareas Hápticas](https://github.com/maxiveliz/JUDITH/blob/9fd2d86531a9cda1281d17332c89f9eac544f720/Juego%20Did%C3%A1ctico%20para%20Tareas%20H%C3%A1pticas_11.PNG)
 
