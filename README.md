@@ -7,7 +7,7 @@
 ![Impresión 3D](https://img.shields.io/badge/Fabricaci%C3%B3n-Impresi%C3%B3n%203D-orange.svg)
 
 <p align="center">
-  <img src="img/judith_pizarron.jpg" alt="Tablero JUDITH en posición vertical sobre su soporte, con una curva encajada y varias piezas de funciones sueltas alrededor" width="620">
+  <img src="judith_pizarron.jpg" alt="Tablero JUDITH en posición vertical sobre su soporte, con una curva encajada y varias piezas de funciones sueltas alrededor" width="620">
 </p>
 
 ## Resumen
@@ -107,7 +107,7 @@ Las reglas de traducción empleadas son: línea → relieve; punto → perno; un
 ## Descripción del dispositivo
 
 <p align="center">
-  <img src="img/judith_piezas_2.jpg" alt="Componentes de JUDITH: soporte semicircular verde, tablero azul perforado dividido en cuatro cuadrantes y pieza recta verde con pernos" width="560">
+  <img src="judith_piezas_2.jpg" alt="Componentes de JUDITH: soporte semicircular verde, tablero azul perforado dividido en cuatro cuadrantes y pieza recta verde con pernos" width="560">
 </p>
 
 | Componente | Función |
@@ -119,7 +119,7 @@ Las reglas de traducción empleadas son: línea → relieve; punto → perno; un
 ### Anverso y reverso
 
 <p align="center">
-  <img src="img/judith_cuadrante_2.jpg" alt="Dos tableros JUDITH: a la izquierda, ejes en el centro con una curva polinómica verde; a la derecha, ejes rojos en los bordes con un gráfico poligonal rojo" width="620">
+  <img src="judith_cuadrante_2.jpg" alt="Dos tableros JUDITH: a la izquierda, ejes en el centro con una curva polinómica verde; a la derecha, ejes rojos en los bordes con un gráfico poligonal rojo" width="620">
 </p>
 
 El tablero tiene dos caras de trabajo. En el **anverso** los ejes están en el centro y se dispone de los cuatro cuadrantes. En el **reverso** los ejes están en los bordes y se trabaja solo en el primer cuadrante, lo que resulta adecuado para problemas en contexto, como los gráficos de tiempo–distancia.
@@ -127,7 +127,7 @@ El tablero tiene dos caras de trabajo. En el **anverso** los ejes están en el c
 ### De la tabla de valores al tablero
 
 <p align="center">
-  <img src="img/judith_tabla.jpg" alt="Tablero JUDITH con cinco marcadores negros alineados y una pieza recta apoyada sobre ellos" width="300">
+  <img src="judith_tabla.jpg" alt="Tablero JUDITH con cinco marcadores negros alineados y una pieza recta apoyada sobre ellos" width="300">
 </p>
 
 1. La estudiante calcula una tabla de valores.
@@ -142,8 +142,8 @@ La estudiante no recibe un gráfico terminado: lo construye.
 ### Secuencia didáctica en cuatro momentos
 
 <p align="center">
-  <img src="img/video_23.jpg" alt="Una mano recorre con los dedos una curva verde montada sobre el tablero azul" width="300">
-  <img src="img/video_33.jpg" alt="Dos manos manipulan una pieza verde con pernos antes de colocarla en el tablero" width="300">
+  <img src="video_23.jpg" alt="Una mano recorre con los dedos una curva verde montada sobre el tablero azul" width="300">
+  <img src="video_33.jpg" alt="Dos manos manipulan una pieza verde con pernos antes de colocarla en el tablero" width="300">
 </p>
 
 Plan de clase de unos 50 minutos para una pareja formada por un estudiante ciego y uno vidente:
@@ -173,7 +173,7 @@ Sobre una función montada en el tablero, la estudiante:
 ### Estudio cotidiano
 
 <p align="center">
-  <img src="img/judith_laptop.jpg" alt="Tablero JUDITH con un gráfico rojo, apoyado sobre el teclado de una computadora portátil que muestra el enunciado del ejercicio" width="480">
+  <img src="judith_laptop.jpg" alt="Tablero JUDITH con un gráfico rojo, apoyado sobre el teclado de una computadora portátil que muestra el enunciado del ejercicio" width="480">
 </p>
 
 El lector de pantalla lee el enunciado del ejercicio y el tablero muestra el gráfico al que se refiere: texto por el oído, gráfico por el tacto. La estudiante trabaja sin esperar a que alguien le describa la figura.
@@ -189,7 +189,7 @@ Los dispositivos resuelven el gráfico; el texto y las fórmulas requieren su pr
 ## JAIME: extensión a áreas y perímetros
 
 <p align="center">
-  <img src="img/jaime_libro.jpg" alt="Dos piezas impresas en 3D, una amarilla cuadrada y una azul circular, apoyadas sobre las páginas del libro con los ejercicios de áreas que reproducen" width="520">
+  <img src="jaime_libro.jpg" alt="Dos piezas impresas en 3D, una amarilla cuadrada y una azul circular, apoyadas sobre las páginas del libro con los ejercicios de áreas que reproducen" width="520">
 </p>
 
 JAIME (*Juego de Áreas Impresas para Matemática Elemental*) aplica el mismo método a la geometría. Cada figura del libro se convierte en un marco impreso en 3D, y el sombreado se convierte en textura: la región sombreada se siente distinta de la vacía. Las piezas se pueden sacar y comparar.
@@ -229,16 +229,16 @@ Lo importante no es el material, sino las reglas: unidades que se puedan contar,
 ## Transferencia y formación docente
 
 <p align="center">
-  <img src="img/taller_aula.jpg" alt="Docentes trabajando en parejas con un tablero JUDITH durante una jornada-taller" width="400">
-  <img src="img/taller_vendas.jpg" alt="Docentes con los ojos vendados exploran con el tacto una pieza de JAIME" width="400">
+  <img src="taller_aula.jpg" alt="Docentes trabajando en parejas con un tablero JUDITH durante una jornada-taller" width="400">
+  <img src="taller_vendas.jpg" alt="Docentes con los ojos vendados exploran con el tacto una pieza de JAIME" width="400">
 </p>
 
 Las jornadas-taller *Matemática con los dedos* proponen a los docentes tres instancias: **vivir la barrera** (con los ojos vendados se descubre qué se pierde sin la vista), **explorar en pareja** (uno explora con el tacto y el otro guía con palabras) y **llevarlo al aula** (cada jornada cierra con propuestas de uso en clase). Entre las actividades se cuentan la búsqueda táctil del punto de intersección de dos funciones, como forma concreta de abordar sistemas de ecuaciones, y la lectura de subidas, bajadas, máximos y mínimos de una curva.
 
 <p align="center">
-  <img src="img/foto_taller_23.jpg" alt="Una persona sostiene un tablero JUDITH con dos funciones que se cortan" width="330">
-  <img src="img/taller_curvas.jpg" alt="Una persona recorre con la mano una curva montada en el tablero" width="290">
-  <img src="img/kit_2.jpg" alt="Caja del kit JUDITH con tablero, soporte y piezas en su interior" width="250">
+  <img src="foto_taller_23.jpg" alt="Una persona sostiene un tablero JUDITH con dos funciones que se cortan" width="330">
+  <img src="taller_curvas.jpg" alt="Una persona recorre con la mano una curva montada en el tablero" width="290">
+  <img src="kit_2.jpg" alt="Caja del kit JUDITH con tablero, soporte y piezas en su interior" width="250">
 </p>
 
 Jornadas-taller y adquisición del kit en Argentina:
@@ -266,7 +266,6 @@ JUDITH/
 ├── Tablero impreso/                 Modelos del tablero (plano cartesiano perforado)
 ├── Soporte tablero impreso/         Modelos del soporte vertical
 ├── funciones STL/                   Piezas de funciones (rectas, parábolas, polinomios, etc.)
-├── img/                             Imágenes utilizadas en este documento
 ├── Diseño de dispositivos matemáticos accesibles.pdf    Presentación del proyecto
 ├── Matemática_en_contexto-completo.pdf                  Libro del curso (UNGS)
 ├── LICENSE
@@ -311,4 +310,3 @@ Secretaría de Investigación, Universidad Nacional de Hurlingham (UNAHUR)
 
 - mveliz@campus.ungs.edu.ar
 - maximiliano.veliz@unahur.edu.ar
-
