@@ -19,5 +19,5 @@ Referencia: https://www.researchgate.net/publication/305490661_Un_dispositivo_pa
 
 Contacto.
 
-Maximiliano E. Véliz
-mveliz@campus.ungs.edu.ar
+Dr. Ing. Maximiliano E. Véliz
+UNGS-UNAHUR
